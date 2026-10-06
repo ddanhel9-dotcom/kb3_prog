@@ -1,0 +1,29 @@
+body{
+    max-width: 750px;
+    margin: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    text-align: justify;
+    padding: 15px 38px;
+}
+.cerne { 
+    color: aliceblue;
+    background-color: black;
+}
+img {
+    width: 200px;
+    padding: 11px;
+    border-radius: 15px;
+}
+.vpravo {
+    float: right;
+}
+
+footer{
+    font-size: 10px;
+    color: grey;
+    text-align: center;
+    margin-bottom: 20px;
+}
