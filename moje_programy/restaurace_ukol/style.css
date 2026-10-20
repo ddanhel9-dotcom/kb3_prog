@@ -133,3 +133,31 @@ footer p:first-child {
     font-weight: bold;
 }
 
+.pizzy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 1000px;
+    margin: 40px auto;
+}
+
+.pizza {
+    border: 1px solid #E86B45;
+    border-radius: 5px;
+    padding: 20px;
+    width: 250px;
+    box-sizing: border-box;
+}
+
+.pizza h2 {
+    margin-top: 5px;
+}
+
+.cena {
+    color: #E86B45;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
