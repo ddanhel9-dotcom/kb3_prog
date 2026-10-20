@@ -1,0 +1,38 @@
+
+body {
+    background-color: #252525;
+    color: #F5F0E8;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 40px;
+}
+
+h1 {
+    color: #E86B45;
+    font-size: 40px;
+}
+
+h2 {
+    color: #E86B45;
+}
+
+nav {
+    margin-bottom: 30px;
+    border: 1px solid #E86B45;
+    padding: 15px;
+}
+
+nav a {
+    color: #F5F0E8;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: #E86B45;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
