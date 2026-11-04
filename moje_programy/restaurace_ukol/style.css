@@ -210,3 +210,60 @@ footer p {
         margin: 8px;
     }
 }
+
+.kontakt {
+    background-color: white;
+    max-width: 850px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.kontakt h2 {
+    margin-top: 25px;
+}
+
+.kontakt iframe {
+    border-radius: 8px;
+}
+
+.nadpis-vyhody {
+    max-width: 1100px;
+    margin: 45px auto 20px;
+    font-size: 32px;
+}
+
+.o-nas {
+    background-color: white;
+    max-width: 1040px;
+    margin: 45px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.o-nas h2 {
+    margin-top: 0;
+}
+
+.galerie img {
+    border: 1px solid #dddddd;
+    box-shadow: 0 3px 8px #dddddd;
+}
+
+.pizza:hover {
+    background-color: #fff8f0;
+}
+
+.galerie-jedna {
+    width: 95%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.galerie-jedna img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
